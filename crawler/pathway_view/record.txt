@@ -1,0 +1,472 @@
+1;4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression;0.200333
+2;ACE Inhibitor Pathway;0.20753
+3;Acetylcholine Synthesis;0.179748
+4;Acrylamide Biotransformation and Exposure Biomarkers;0.179403
+5;Adipogenesis;0.207915
+6;Aflatoxin B1 metabolism;0.179285
+7;AGE/RAGE pathway;0.23054
+8;Alanine and aspartate metabolism;0.202408
+9;Allograft Rejection;0.228733
+10;Alpha 6 Beta 4 signaling pathway;0.190794
+11;Alzheimers Disease;0.214739
+12;Amino acid conjugation of benzoic acid;0.177677
+13;Amino Acid metabolism;0.255681
+14;AMP-activated Protein Kinase (AMPK) Signaling;0.193942
+15;Amplification and Expansion of Oncogenic Pathways as Metastatic Traits;0.179567
+16;Amyotrophic lateral sclerosis (ALS);0.197024
+17;Androgen receptor signaling pathway;0.203166
+18;Angiogenesis;0.180847
+19;Angiopoietin Like Protein 8 Regulatory Pathway;0.216752
+20;ApoE and miR-146 in inflammation and atherosclerosis;0.175553
+21;Apoptosis;0.197312
+22;Apoptosis Modulation and Signaling;0.212441
+23;Apoptosis Modulation by HSP70;0.180663
+24;Apoptosis-related network due to altered Notch3 in ovarian cancer;0.196978
+25;Arachidonate Epoxygenase / Epoxide Hydrolase;0.178776
+26;Aripiprazole Metabolic Pathway;0.182553
+27;Arrhythmogenic Right Ventricular Cardiomyopathy;0.211881
+28;Aryl Hydrocarbon Receptor;0.205484
+29;Aryl Hydrocarbon Receptor Pathway;0.182067
+30;Arylamine metabolism;0.178121
+31;Association Between Physico-Chemical Features and Toxicity Associated Pathways;0.197806
+32;ATM Signaling Network in Development and Disease ;0.185719
+33;ATM Signaling Pathway;0.202537
+34;ATR Signaling;0.179491
+35;B Cell Receptor Signaling Pathway;0.245461
+36;BDNF-TrkB Signaling;0.184373
+37;Benzene metabolism;0.177185
+38;Benzo(a)pyrene metabolism;0.176823
+39;Biogenic Amine Synthesis;0.18395
+40;Bladder Cancer;0.189792
+41;Blood Clotting Cascade;0.182319
+42;BMP Signaling Pathway in Eyelid Development;0.173678
+43;BMP2-WNT4-FOXO1 Pathway in Human Primary Endometrial Stromal Cell Differentiation;0.175885
+44;Bone Morphogenic Protein (BMP) Signalling and Regulation;0.178611
+45;Brain-Derived Neurotrophic Factor (BDNF) signaling pathway;0.25381
+46;Breast cancer pathway;0.216255
+47;Butyrate-induced histone acetylation;0.173653
+48;Caffeine and Theobromine metabolism;0.178616
+49;Calcium Regulation in the Cardiac Cell;0.22393
+50;Caloric restriction and aging;0.180487
+51;Cannabinoid receptor signaling;0.189428
+52;Canonical  and Non-canonical Notch signaling;0.179437
+53;Canonical and Non-Canonical TGF-B signaling;0.178063
+54;Cardiac Hypertrophic Response;0.195392
+55;Cardiac Progenitor Differentiation;0.193599
+56;Catalytic cycle of mammalian Flavin-containing MonoOxygenases (FMOs);0.190838
+57;Cell Cycle;0.211168
+58;Cell Differentiation - Index;0.209686
+59;Cell Differentiation - Index expanded;0.206192
+60;Cell-type Dependent Selectivity of CCK2R Signaling;0.180659
+61;Chemokine signaling pathway;0.208491
+62;Cholesterol Biosynthesis Pathway;0.185148
+63;Chromosomal and microsatellite instability in colorectal cancer ;0.19487
+64;Ciliary landscape;0.223498
+65;Circadian rythm related genes;0.204996
+66;Codeine and Morphine Metabolism;0.183465
+67;Colchicine Metabolic Pathway;0.178924
+68;Common Pathways Underlying Drug Addiction;0.188064
+69;Complement Activation;0.184114
+70;Complement and Coagulation Cascades;0.200473
+71;Composition of Lipid Particles;0.18693
+72;Constitutive Androstane Receptor Pathway;0.181816
+73;Copper homeostasis;0.185868
+74;Cori Cycle;0.194249
+75;Corticotropin-releasing hormone signaling pathway;0.241293
+76;Cytokines and Inflammatory Response;0.191396
+77;Cytoplasmic Ribosomal Proteins;0.179269
+78;DDX1 as a regulatory component of the Drosha microprocessor;0.176391
+79;Degradation pathway of sphingolipids, including diseases;0.189383
+80;Deregulation of Rab and Rab Effector Genes in Bladder Cancer;0.174989
+81;Development and heterogeneity of the ILC family;0.193795
+82;Development of pulmonary dendritic cells and macrophage subsets;0.193306
+83;Diclofenac Metabolic Pathway;0.175143
+84;Differentiation of white and brown adipocyte   ;0.178477
+85;Differentiation Pathway;0.293675
+86;Disorders of Folate Metabolism and Transport;0.190321
+87;Disorders of the Krebs cycle;0.186712
+88;DNA Damage Response;0.208945
+89;DNA Damage Response (only ATM dependent);0.20842
+90;DNA IR-damage and cellular response via ATR;0.224068
+91;DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM;0.20796
+92;DNA Mismatch Repair;0.176762
+93;DNA Replication;0.209731
+94;Dopamine metabolism;0.187758
+95;Dopaminergic Neurogenesis;0.1913
+96;Drug Induction of Bile Acid Pathway;0.18168
+97;Dual hijack model of Vif in HIV infection;0.17933
+98;Ebola Virus Pathway on Host;0.219228
+99;EBV LMP1 signaling;0.178143
+100;Ectoderm Differentiation;0.21511
+101;EDA Signalling in Hair Follicle Development;0.179815
+102;Effects of Nitric Oxide;0.175694
+103;EGF/EGFR Signaling Pathway;0.247849
+104;Eicosanoid Synthesis;0.19429
+105;eIF5A regulation in response to inhibition of the nuclear export system;0.175964
+106;Electron Transport Chain (OXPHOS system in mitochondria);0.188888
+107;Endochondral Ossification;0.188801
+108;Endoderm Differentiation;0.215792
+109;Endometrial cancer;0.183574
+110;Endothelin Pathways;0.202587
+111;Energy Metabolism;0.190087
+112;Epithelial to mesenchymal transition in colorectal cancer;0.215898
+113;EPO Receptor Signaling;0.174179
+114;ErbB Signaling Pathway;0.205644
+115;ERK Pathway in Huntington's Disease;0.175764
+116;ESC Pluripotency Pathways;0.20935
+117;Estrogen metabolism;0.208422
+118;Estrogen Receptor Pathway;0.178552
+119;Estrogen signaling pathway;0.192201
+120;Ethanol effects on histone modifications;0.187712
+121;Ethanol metabolism resulting in production of ROS by CYP2E1;0.178703
+122;Eukaryotic Transcription Initiation;0.195126
+123;EV release from cardiac cells and their functional effects;0.19319
+124;Evolocumab Mechanism;0.181627
+125;Exercise-induced Circadian Regulation;0.186342
+126;exRNA mechanism of action and biogenesis;0.178962
+127;Extracellular vesicle-mediated signaling in recipient cells;0.178566
+128;Extracellular vesicles in the crosstalk of cardiac cells;0.199759
+129;FABP4 in ovarian cancer;0.175757
+130;Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling;0.187815
+131;Farnesoid X Receptor  Pathway;0.173796
+132;Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation;0.190465
+133;Fatty Acid Beta Oxidation;0.217295
+134;Fatty Acid Biosynthesis;0.180473
+135;Fatty Acid Omega Oxidation;0.180938
+136;Felbamate Metabolism;0.173522
+137;Ferroptosis;0.203579
+138;Fibrin Complement Receptor 3 Signaling Pathway;0.193909
+139;Fluoropyrimidine Activity;0.184416
+140;Focal Adhesion;0.223987
+141;Focal Adhesion-PI3K-Akt-mTOR-signaling pathway;0.233319
+142;Folate Metabolism;0.244644
+143;Folate-Alcohol and Cancer Pathway Hypotheses;0.175673
+144;Follicle Stimulating Hormone (FSH) signaling pathway;0.18289
+145;FTO Obesity Variant Mechanism;0.184255
+146;G Protein Signaling Pathways;0.196155
+147;G1 to S cell cycle control;0.187581
+148;G13 Signaling Pathway;0.184181
+149;GABA receptor Signaling;0.211498
+150;Ganglio Sphingolipid Metabolism;0.196505
+151;Gastric acid production;0.18282
+152;Gastric Cancer Network 1;0.18426
+153;Gastric Cancer Network 2;0.194977
+154;Gene regulatory network modelling somitogenesis ;0.175592
+155;Genes targeted by miRNAs in adipocytes;0.180116
+156;Genotoxicity pathway;0.219541
+157;Glial Cell Differentiation;0.173726
+158;Globo Sphingolipid Metabolism;0.185491
+159;Glucocorticoid and Mineralcorticoid Metabolism;0.195167
+160;Glucose Homeostasis;0.188374
+161;Glucuronidation;0.186509
+162;Glutathione metabolism;0.194927
+163;Glycerophospholipid Biosynthetic Pathway;0.230269
+164;Glycine Metabolism;0.187251
+165;Glycogen Synthesis and Degradation;0.188924
+166;Glycolysis and Gluconeogenesis;0.189501
+167;GPCRs, Class A Rhodopsin-like;0.216545
+168;GPCRs, Class B Secretin-like;0.180463
+169;GPCRs, Class C Metabotropic glutamate, pheromone;0.184196
+170;GPCRs, Other;0.210071
+171;GPR40 Pathway;0.192121
+172;H19 action Rb-E2F1 signaling and CDK-Beta-catenin activity;0.185013
+173;Hair Follicle Development: Cytodifferentiation (Part 3 of 3);0.22958
+174;Heart Development;0.249378
+175;Hedgehog Signaling Pathway;0.218579
+176;Hematopoietic Stem Cell Gene Regulation by GABP alpha/beta Complex;0.175638
+177;Heme Biosynthesis;0.179209
+178;Hepatitis C and Hepatocellular Carcinoma;0.219253
+179;Heroin metabolism;0.188976
+180;Hfe effect on hepcidin production;0.186145
+181;HIF1A and PPARG regulation of glycolysis;0.183384
+182;Histone Modifications;0.183476
+183;Homologous recombination;0.184685
+184;Hormonal control of Pubertal Growth Spurt;0.188696
+185;Human Complement System;0.279069
+186;Human Thyroid Stimulating Hormone (TSH) signaling pathway;0.204269
+187;Hypertrophy Model;0.198747
+188;Hypothesized Pathways in Pathogenesis of Cardiovascular Disease;0.203257
+189;Hypothetical Craniofacial Development Pathway;0.189693
+190;Hypoxia-mediated EMT and Stemness;0.197787
+191;ID signaling pathway;0.209879
+192;IL-1 signaling pathway;0.223766
+193;IL-2 Signaling Pathway;0.22061
+194;IL-3 Signaling Pathway;0.19129
+195;IL-4 Signaling Pathway;0.215028
+196;IL-5 Signaling Pathway;0.196973
+197;IL-6 signaling pathway;0.20783
+198;IL-7 Signaling Pathway;0.18398
+199;IL-9 Signaling Pathway;0.182338
+200;IL1 and megakaryocytes in obesity;0.189077
+201;IL17 signaling pathway;0.184794
+202;Imatinib and Chronic Myeloid Leukemia;0.191439
+203;Inflammatory Response Pathway;0.201146
+204;Influenza A virus infection;0.18358
+205;Inhibition of exosome biogenesis and secretion by Manumycin A in CRPC cells;0.181343
+206;Initiation of transcription and translation elongation at the HIV-1 LTR;0.187954
+207;Insulin Signaling;0.210415
+208;Insulin signalling in human adipocytes (diabetic condition);0.236385
+209;Insulin signalling in human adipocytes (normal condition);0.215312
+210;Integrated Breast Cancer Pathway;0.260256
+211;Integrated Cancer Pathway;0.176501
+212;Integrin-mediated Cell Adhesion;0.190822
+213;Interactome of polycomb repressive complex 2 (PRC2) ;0.174231
+214;Interferon type I signaling pathways;0.20515
+215;Interleukin-1 Induced Activation of NF-kappa-B;0.182069
+216;Interleukin-11 Signaling Pathway;0.195897
+217;Irinotecan Pathway;0.183283
+218;Iron metabolism in placenta;0.182139
+219;Kennedy pathway from Sphingolipids;0.186917
+220;Kit receptor signaling pathway;0.204204
+221;Lamin A-processing pathway;0.177858
+222;Leptin and adiponectin;0.203283
+223;Leptin Insulin Overlap;0.178653
+224;Leptin signaling pathway;0.20952
+225;let-7 inhibition of ES cell reprogramming;0.181233
+226;Lidocaine metabolism;0.173088
+227;Lipid Metabolism Pathway;0.188985
+228;Liver X Receptor Pathway;0.177535
+229;LncRNA involvement in canonical Wnt signaling and colorectal cancer;0.199259
+230;LncRNA-mediated mechanisms of therapeutic resistance;0.17727
+231;Lung fibrosis;0.213429
+232;Macrophage markers;0.182807
+233;Mammary gland development pathway - Embryonic development (Stage 1 of 4);0.180977
+234;Mammary gland development pathway - Involution (Stage 4 of 4);0.176886
+235;Mammary gland development pathway - Pregnancy and lactation (Stage 3 of 4);0.186654
+236;Mammary gland development pathway - Puberty (Stage 2 of 4);0.175664
+237;MAPK  and NFkB Signalling Pathways Inhibited by Yersinia YopJ;0.180362
+238;MAPK Cascade;0.188248
+239;MAPK Signaling Pathway;0.230353
+240;Matrix Metalloproteinases;0.174941
+241;MECP2 and Associated Rett Syndrome;0.206517
+242;Melatonin metabolism and effects;0.191727
+243;Mesodermal Commitment Pathway;0.222902
+244;Metabolic reprogramming in colon cancer;0.201761
+245;Metabolism of Dichloroethylene by CYP450;0.176898
+246;Metabolism of Spingolipids in ER and Golgi apparatus;0.209716
+247;Metabolism of Tetrahydrocannabinol (THC);0.181648
+248;Metapathway biotransformation Phase I and II;0.209012
+249;Metastatic brain tumor;0.183711
+250;Methionine De Novo and Salvage Pathway;0.206761
+251;Methylation Pathways;0.17865
+252;Mevalonate arm of cholesterol biosynthesis pathway with inhibitors;0.196315
+253;MFAP5-mediated ovarian cancer cell motility and invasiveness;0.179615
+254;Microglia Pathogen Phagocytosis Pathway;0.179407
+255;MicroRNA for Targeting Cancer Growth and Vascularization in Glioblastoma;0.177929
+256;MicroRNA network associated with chronic lymphocytic leukemia;0.17627
+257;MicroRNAs in cardiomyocyte hypertrophy;0.230709
+258;mir-124 predicted interactions with cell cycle and differentiation ;0.172709
+259;miR-222 in Exercise-Induced Cardiac Growth;0.181198
+260;miR-509-3p alteration of YAP1/ECM axis;0.178581
+261;miR-517 relationship with ARCN1 and USP1;0.173328
+262;mir34a and TGIF2 in osteoclastogenesis;0.178122
+263;miRNA Biogenesis;0.17767
+264;miRNA Regulation of DNA Damage Response;0.217713
+265;miRNA regulation of p53 pathway in prostate cancer;0.18438
+266;miRNA targets in ECM and membrane receptors;0.176715
+267;miRNAs involved in DNA damage response;0.201732
+268;miRNAs involvement in the immune response in sepsis;0.190643
+269;miRs in Muscle Cell Differentiation;0.176255
+270;Mitochondrial complex I assembly model OXPHOS system;0.288332
+271;Mitochondrial Gene Expression;0.174299
+272;Mitochondrial LC-Fatty Acid Beta-Oxidation;0.181443
+273;Model for regulation of MSMP expression in cancer cells and its proangiogenic role in ovarian tumors;0.177932
+274;Monoamine GPCRs;0.178765
+275;Monoamine Transport;0.185764
+276;mRNA Processing;0.223258
+277;MTHFR deficiency;0.19733
+278;Myometrial Relaxation and Contraction Pathways;0.214118
+279;NAD Biosynthesis II (from tryptophan);0.178278
+280;NAD metabolism, sirtuins and aging;0.177613
+281;NAD+ biosynthetic pathways;0.18056
+282;NAD+ metabolism;0.187492
+283;Nanomaterial induced apoptosis;0.178824
+284;Nanoparticle triggered autophagic cell death;0.180927
+285;Nanoparticle triggered regulated necrosis;0.177887
+286;Nanoparticle-mediated activation of receptor signaling;0.182918
+287;ncRNAs involved in STAT3 signaling in hepatocellular carcinoma;0.175505
+288;ncRNAs involved in Wnt signaling in hepatocellular carcinoma;0.19871
+289;Neovascularisation processes;0.193444
+290;Neural Crest Differentiation;0.209015
+291;Neurotransmitter Disorders;0.174294
+292;Nicotine Activity on Chromaffin Cells;0.175009
+293;Nicotine Activity on Dopaminergic Neurons;0.192296
+294;Nicotine Metabolism;0.18462
+295;NLR Proteins;0.184734
+296;NO/cGMP/PKG mediated Neuroprotection;0.195509
+297;Non-genomic actions of 1,25 dihydroxyvitamin D3;0.197226
+298;Non-homologous end joining;0.191503
+299;Non-small cell lung cancer;0.19195
+300;Nonalcoholic fatty liver disease;0.189582
+301;Notch Signaling;0.175655
+302;Notch Signaling Pathway;0.190598
+303;NOTCH1 regulation of human endothelial cell calcification;0.182655
+304;NRF2 pathway;0.205148
+305;NRF2-ARE regulation;0.176936
+306;Nuclear Receptors;0.177103
+307;Nuclear Receptors in Lipid Metabolism and Toxicity;0.181969
+308;Nuclear Receptors Meta-Pathway;0.274544
+309;Nucleotide GPCRs;0.173679
+310;Nucleotide Metabolism;0.174027
+311;Nucleotide-binding Oligomerization Domain (NOD) pathway;0.19
+312;Oligodendrocyte Specification and differentiation(including remyelination), leading to Myelin Components for CNS;0.186776
+313;Oncostatin M Signaling Pathway;0.211978
+314;One Carbon Metabolism;0.192851
+315;One carbon metabolism and related pathways;0.201593
+316;Osteoblast Signaling;0.178941
+317;Osteoclast Signaling;0.183637
+318;Osteopontin Signaling;0.192805
+319;Ovarian Infertility Genes;0.179639
+320;Overview of nanoparticle effects;0.184597
+321;Oxidation by Cytochrome P450;0.1882
+322;Oxidative Damage;0.189428
+323;Oxidative phosphorylation;0.187957
+324;Oxidative Stress;0.184735
+325;Oxytocin signaling;0.177661
+326;p38 MAPK Signaling Pathway;0.186938
+327;Pancreatic adenocarcinoma pathway;0.223653
+328;Parkin-Ubiquitin Proteasomal System pathway;0.200804
+329;Parkinsons Disease Pathway;0.191721
+330;Pathogenic Escherichia coli infection;0.227031
+331;Pathways Affected in Adenoid Cystic Carcinoma;0.192024
+332;Pathways in clear cell renal cell carcinoma;0.200818
+333;PDGF Pathway;0.198198
+334;Pentose Phosphate Metabolism;0.179035
+335;Peptide GPCRs;0.187577
+336;Peroxisomal beta-oxidation of tetracosanoyl-CoA;0.17945
+337;Phase I biotransformations, non P450;0.178399
+338;Phosphodiesterases in neuronal function;0.217705
+339;Photodynamic therapy-induced HIF-1 survival signaling;0.179196
+340;Photodynamic therapy-induced NF-kB survival signaling;0.180663
+341;Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling;0.180007
+342;Photodynamic therapy-induced unfolded protein response;0.185354
+343;Physiological and Pathological Hypertrophy  of the Heart;0.186617
+344;Phytochemical activity on NRF2 transcriptional activation;0.181392
+345;PI3K-Akt Signaling Pathway;0.242324
+346;PI3K-AKT-mTOR signaling pathway and therapeutic opportunities;0.180924
+347;PI3K/AKT/mTOR - VitD3 Signalling;0.189181
+348;Polyol Pathway;0.182959
+349;PPAR Alpha Pathway;0.176727
+350;PPAR signaling pathway;0.195422
+351;Prader-Willi and Angelman Syndrome;0.228432
+352;Pregnane X Receptor pathway;0.174306
+353;Preimplantation Embryo;0.188943
+354;Primary Focal Segmental Glomerulosclerosis FSGS;0.204715
+355;Prion disease pathway;0.169925
+356;Prolactin Signaling Pathway;0.219459
+357;Proprotein convertase subtilisin/kexin type 9 (PCSK9) mediated LDL receptor degradation;0.172951
+358;Prostaglandin Synthesis and Regulation;0.185507
+359;Proteasome Degradation;0.181282
+360;PTF1A related regulatory pathway;0.201517
+361;Purine metabolism;0.217308
+362;Pyrimidine metabolism;0.234313
+363;Pyrimidine metabolism and related diseases;0.204249
+364;RAC1/PAK1/p38/MMP2 Pathway;0.190058
+365;RalA downstream regulated genes;0.171597
+366;RANKL/RANK (Receptor activator of NFKB (ligand)) Signaling Pathway;0.188158
+367;Ras Signaling;0.22266
+368;Regulation of Actin Cytoskeleton;0.243836
+369;Regulation of Apoptosis by Parathyroid Hormone-related Protein;0.17679
+370;Regulation of Microtubule Cytoskeleton;0.193755
+371;Regulation of sister chromatid separation at the metaphase-anaphase transition;0.17533
+372;Regulation of toll-like receptor signaling pathway;0.234931
+373;Regulation of Wnt/B-catenin Signaling by Small Molecule Compounds;0.178436
+374;Resistin as a regulator of inflammation;0.181136
+375;Retinoblastoma Gene in Cancer;0.214983
+376;Rett syndrome causing genes;0.19
+377;RIG-I-like Receptor Signaling;0.190973
+378;Robo4 and VEGF Signaling Pathways Crosstalk;0.182445
+379;Role Altered Glycolysation of MUC1 in Tumour Microenvironment;0.176965
+380;Role of Osx and miRNAs in tooth development;0.184839
+381;SCFA and skeletal muscle substrate metabolism;0.212141
+382;Secretion of Hydrochloric Acid in Parietal Cells;0.195893
+383;Selenium Metabolism and Selenoproteins;0.188174
+384;Selenium Micronutrient Network;0.291736
+385;Senescence and Autophagy in Cancer;0.202717
+386;Serotonin and anxiety;0.184669
+387;Serotonin and anxiety-related events;0.177397
+388;Serotonin Receptor 2 and ELK-SRF/GATA4 signaling;0.177891
+389;Serotonin Receptor 2 and STAT3 Signaling;0.175316
+390;Serotonin Receptor 4/6/7 and NR3C Signaling;0.182435
+391;Serotonin Transporter Activity;0.180225
+392;Signal Transduction of S1P Receptor;0.197676
+393;Signaling of Hepatocyte Growth Factor Receptor;0.18305
+394;Signaling Pathways in Glioblastoma;0.20621
+395;Simplified Depiction of MYD88 Distinct Input-Output Pathway;0.174799
+396;Simplified Interaction Map Between LOXL4 and Oxidative Stress Pathway;0.176003
+397;Small Ligand GPCRs;0.181697
+398;Somatroph axis (GH) and its relationship to dietary restriction and aging;0.178244
+399;Sphingolipid pathway;0.20957
+400;Spinal Cord Injury;0.230454
+401;Splicing factor NOVA regulated synaptic proteins;0.190542
+402;SREBF and miR33 in cholesterol and lipid homeostasis;0.219705
+403;SRF and miRs in Smooth Muscle Differentiation and Proliferation;0.180585
+404;Statin Pathway;0.184474
+405;Steroid Biosynthesis;0.179155
+406;Sterol Regulatory Element-Binding Proteins (SREBP) signalling;0.211451
+407;Striated Muscle Contraction Pathway;0.189405
+408;Structural Pathway of Interleukin 1 (IL-1);0.190124
+409;Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways;0.26555
+410;Sulfation Biotransformation Reaction;0.17276
+411;Sulindac Metabolic Pathway;0.178108
+412;Supression of HMGB1 mediated inflammation by THBD;0.176977
+413;Synaptic Vesicle Pathway;0.190059
+414;Synthesis and Degradation of Ketone Bodies;0.177036
+415;T-Cell antigen Receptor (TCR)  Signaling Pathway;0.208484
+416;T-Cell antigen Receptor (TCR) pathway during Staphylococcus aureus infection;0.20048
+417;T-Cell Receptor and Co-stimulatory Signaling;0.189162
+418;Tamoxifen metabolism;0.189595
+419;Target Of Rapamycin (TOR) Signaling;0.179934
+420;TCA Cycle (aka Krebs or citric acid cycle);0.191274
+421;TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc);0.181656
+422;TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer;0.172661
+423;TFs Regulate miRNAs related to cardiac hypertrophy;0.177697
+424;TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition;0.174082
+425;TGF-beta Receptor Signaling;0.183199
+426;TGF-beta Signaling Pathway;0.231093
+427;Tgif disruption of Shh signaling;0.173916
+428;The effect of progerin on the involved genes in Hutchinson-Gilford Progeria Syndrome;0.182216
+429;The human immune response to tuberculosis;0.174121
+430;Thermogenesis;0.207646
+431;Thiamine metabolic pathways;0.181154
+432;Thymic Stromal LymphoPoietin (TSLP) Signaling Pathway;0.189757
+433;Thyroxine (Thyroid Hormone) Production;0.17292
+434;TLR4 Signaling and Tolerance;0.177907
+435;TNF alpha Signaling Pathway;0.211102
+436;TNF related weak inducer of apoptosis (TWEAK) Signaling Pathway;0.215046
+437;Toll-like Receptor Signaling;0.177454
+438;Toll-like Receptor Signaling Pathway;0.209034
+439;TP53 Network;0.178673
+440;Trans-sulfuration and one carbon metabolism;0.194842
+441;Trans-sulfuration pathway;0.172388
+442;Transcription factor regulation in adipogenesis;0.179316
+443;Transcriptional cascade regulating adipogenesis;0.180949
+444;Translation Factors;0.186871
+445;Triacylglyceride Synthesis;0.176055
+446;Tryptophan metabolism;0.231686
+447;Tumor suppressor activity of SMARCB1;0.17262
+448;Type 2 papillary renal cell carcinoma;0.175759
+449;Type II diabetes mellitus;0.176919
+450;Type II interferon signaling (IFNG);0.194518
+451;Type III interferon signaling;0.172189
+452;TYROBP Causal Network;0.178956
+453;Ultraconserved region 339 modulation of tumor suppressor microRNAs in cancer;0.174001
+454;Urea cycle and metabolism of amino groups;0.202255
+455;Valproic acid pathway;0.182444
+456;VEGFA-VEGFR2 Signaling Pathway;0.334885
+457;Viral Acute Myocarditis;0.228742
+458;Vitamin A and Carotenoid Metabolism;0.195624
+459;Vitamin B12 Disorders;0.204765
+460;Vitamin B12 Metabolism;0.237855
+461;Vitamin B6-dependent and responsive disorders;0.191553
+462;Vitamin D in inflammatory diseases;0.200469
+463;Vitamin D Metabolism;0.175721
+464;Vitamin D Receptor Pathway;0.194128
+465;Vitamins A and D - action mechanisms;0.174909
+466;White fat cell differentiation;0.192035
+467;Wnt Signaling;0.203932
+468;Wnt Signaling in Kidney Disease;0.174327
+469;Wnt Signaling Pathway;0.190977
+470;Wnt Signaling Pathway and Pluripotency;0.19203
+471;Wnt/beta-catenin Signaling Pathway in Leukemia;0.187173
+472;Zinc homeostasis;0.197731
